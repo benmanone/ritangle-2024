@@ -1,1 +1,0 @@
-std::iter::FlatMap<std::iter::Enumerate<std::slice::Iter<'_, i32>>, std::iter::Map<std::slice::Iter<'_, i32>, {closure@src/main.rs:21:47: 21:55}>, {closure@src/main.rs:21:17: 21:25}>
